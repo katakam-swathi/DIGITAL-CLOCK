@@ -48,8 +48,8 @@ h2{
     opacity:0.8;
     color: white;
 }
-.clock .ampm{
-     bottom : 0;
+.clock #ap{
+    bottom : 0;
     position: absolute;
     width: 60px;
     height: 30px;
